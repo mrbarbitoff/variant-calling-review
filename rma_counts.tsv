@@ -1,0 +1,7 @@
+Assembly	Count	Type	Concordance
+hg38	2184169	all	same
+hg38	11897	coding	same
+T2T	673487	all	same
+T2T	3003	coding	same
+T2T	1813124	all	novel
+T2T	9584	coding	novel
