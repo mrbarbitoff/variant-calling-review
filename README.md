@@ -1,4 +1,4 @@
-# Bioinformatics of short variant calling
+# Bioinformatics of germline variant calling
 
 This repository contains data and code used to prepare figures for the review on variant calling methods for medical genetics. The `bmc_review.R` script contains all the code used for figure generations. Additional data files in the repository include:
 
